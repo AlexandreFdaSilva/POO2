@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/alexrese/android_webservice_viacep" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alexrese/android_webservice_viacep.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\alexa\Documents\Exercicios_android_studio" />
